@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Developer / BE Developer
 - 🌱 I’m currently learning Angular 11
 - 📫 How to reach me on instagram @jay_jiun
+- Usually active on gitlab for private projects, github is only for save the public projects
 
 <!---
 aji-wibowo/aji-wibowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
